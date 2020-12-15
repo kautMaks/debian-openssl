@@ -1,3 +1,9 @@
+openssl (1.1.1i-2) unstable; urgency=medium
+
+  * Fix build error for Debian Jessie
+
+ -- kaut <maksimkaut92@gmail.com>  Tue, 15 Dec 2020 18:32:32 +0300
+
 openssl (1.1.1i-1) unstable; urgency=medium
 
   * New upstream version.
