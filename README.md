@@ -21,7 +21,7 @@ git clone https://github.com/kautMaks/debian-openssl.git
 
 ```
 wget https://www.openssl.org/source/openssl-1.1.1i.tar.gz
-tar -xvf openssl-1.1.1i.tar.g && mv openssl-1.1.1i/* debian-openssl/
+tar -xvf openssl-1.1.1i.tar.gz && mv openssl-1.1.1i/* debian-openssl/
 cd  debian-openssl/
 ```
 
