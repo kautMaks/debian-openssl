@@ -14,7 +14,7 @@ apt-get -qq update && apt-get -y install build-essential debhelper devscripts dp
 
 ```
 cd /root
-git clone https://github.com/kautMaks/debian-oenssl.git
+git clone https://github.com/kautMaks/debian-openssl.git
 ```
 
 ## Get openssl sources:
